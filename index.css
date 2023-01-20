@@ -97,7 +97,7 @@
 
 .call2action {
   display: grid;
-  width: 80%;
+  font-size: .8em;
 }
 
 .contact {
