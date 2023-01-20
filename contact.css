@@ -1,0 +1,52 @@
+.paper-plane {
+  width: 350px;
+  height: auto;
+  margin: 30px auto 0 auto;
+}
+
+.email {
+  margin-bottom: 175px;
+}
+
+.send-it {
+  text-decoration: none;
+  font-family: 'Kalam', cursive;
+  color: gray;
+  font-size: 3.25rem;
+}
+
+#message {
+  color: #4857fe;
+}
+
+#message:hover {
+  color: #fdc348;
+}
+
+.social_info {
+  margin: 45px 25px;
+}
+
+.socials {
+  font-family:'Encode Sans Condensed', sans-serif;
+  color: gray;
+  font-weight: 100;
+  font-size: 6.125rem;
+  margin: 150px auto;
+}
+
+.socials-grid {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 15px;
+}
+
+.social-icon {
+  width: 100px;
+}
+
+.call2action {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 1.5rem;
+
+}
