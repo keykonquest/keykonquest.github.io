@@ -1,0 +1,76 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #E3F8FF;
+}
+
+div {
+  padding: 1em;
+}
+
+.greeting {
+  padding-left: 100px;
+  margin: 50px auto 0 auto;
+  font-family: 'Yellowtail', cursive;
+  font-weight: 100;
+  color: #FFDD83;
+  font-size: 6.125rem;
+}
+
+h2 {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  color: gray;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  color: #27b788;
+  font-size: 1.75rem;
+}
+
+p {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-weight: 600;
+}
+
+hr {
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 6px;
+  padding-top: 2px;
+}
+
+.foot {
+  display: grid;
+  margin-top: 100px;
+  padding: 1.5em 0 .625em 0;
+  background-color: #85dbc9;
+}
+
+.social-links {
+  font-size: 18px;
+  padding: 0;
+}
+
+.social-links span {
+  padding: 0 1.25em;
+}
+
+.resources {
+  justify-self: flex-end;
+  display: flex;
+  padding: 0;
+}
+
+.foot a {
+  padding: .625em;
+  color: rgb(21, 13, 141);
+}
+
+.foot a:hover {
+  color: white;
+}
