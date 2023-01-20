@@ -1,0 +1,119 @@
+
+.head-banner {
+  position: relative;
+  padding-top: 70px;
+}
+
+.hyphen {
+  color: #28CC9E;
+  font-size: 18px;
+}
+
+.subtitle {
+  padding-left: 100px;
+  margin: 0 auto;
+  font-family: 'Kalam',cursive;
+  font-size: 1.562rem;
+  font-weight: lighter;
+  color: gray;
+}
+
+.sunburst {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 20%;
+  top: 50px;
+  margin: 1px;
+}
+
+.mountain {
+  margin: 0 auto;
+  width: 55%;
+  height: 50%;
+}
+
+.cloud_two {
+  width: 160px;
+  height: auto;
+  position: absolute;
+  left: 10%;
+  bottom: 70%;
+  margin: 1px;
+}
+
+.profile {
+  margin: 225px auto;
+}
+
+.skills {
+  margin: 225px auto;
+}
+
+.skills-row {
+  text-align: left;
+  margin: 125px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.html-gif {
+  width: 22.5%;
+  float: left;
+  margin: 0 30px 10px 0;
+  display: block;
+}
+
+@media (max-width: 850px) {
+  .html-gif {
+    margin: 0 20px 0 0;
+  }
+}
+
+.graphic-design {
+  width: 22.5%;
+  height: auto;
+  float: right;
+  margin: 80px auto 10px 30px;
+  display: block;
+}
+
+@media (max-width: 550px) {
+  .graphic-design {
+    margin-left: 10px;
+  }
+}
+
+.skill-row h3 {
+  text-align: left;
+  font-size: 2rem;
+  margin-left: 0;
+}
+
+.contact-bar {
+  margin-top: 225px;
+}
+
+.contact {
+  font-size:1.562rem;
+  font-family:'Encode Sans Condensed', sans-serif;
+  width:166px;
+  height:66px;
+  padding: 6px;
+  border-width:2px;
+  color:gray;
+  border-color:#28CC9E;
+  font-weight:bold;
+  border-top-left-radius:50px;
+  border-top-right-radius:50px;
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:50px;
+  text-shadow: 0px 0px 0px rgba(255, 255, 255, 0);
+  background:rgba(68, 199, 103, 0);
+}
+
+.contact:hover {
+  background: #c7f0fd;
+  color: #28CC9E;
+  border-color: #c6dbd5;
+}
