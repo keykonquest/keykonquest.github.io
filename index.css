@@ -99,6 +99,10 @@
   display: grid;
 }
 
+.call2action p {
+  font-size: 0.875em;
+}
+
 .contact {
   font-size:1.562rem;
   font-family:'Encode Sans Condensed', sans-serif;
