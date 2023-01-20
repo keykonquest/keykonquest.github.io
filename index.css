@@ -96,10 +96,7 @@
 }
 
 .call2action {
-  font-family: 'Encode Sans Condensed';
-  font-size: 1em;
   display: grid;
-  justify-self: center;
 }
 
 .contact {
