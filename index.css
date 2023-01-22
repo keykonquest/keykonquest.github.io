@@ -104,8 +104,6 @@
 
 .call2action {
   display: grid;
-  width: 90%;
-  margin: auto;
 }
 
 @media screen and (min-width: 1000px) {
