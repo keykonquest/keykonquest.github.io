@@ -75,6 +75,9 @@
   .html-gif {
     margin: 0 20px 0 0;
   }
+  .call2action {
+    font-size: 1.5rem;
+  }
 }
 
 .graphic-design {
@@ -104,6 +107,8 @@
 
 .call2action {
   display: grid;
+  width: 60%;
+  margin: auto;
 }
 
 .call2action p {
