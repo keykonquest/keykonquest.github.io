@@ -16,8 +16,7 @@
   font-size: 18px;
 }
 
-.subtitle {
-/*  padding-left: 3.25em; */
+.subtitle { 
   margin: 0 auto;
   font-family: 'Kalam',cursive;
   font-size: 1.562rem;
@@ -84,11 +83,17 @@
   .graphic-design {
     margin: 5em auto 0.625em 1.875em;
   }
+  .subtitle {
+    padding-left: 3.25em;
+  }
 }
 
 @media (max-width: 1200px) {
   .graphic-design {
     margin: 10em auto 0.625em 2em;
+  }
+  .subtitle {
+    padding-left: 2em;
   }
 }
 
