@@ -83,6 +83,12 @@
   }
 }
 
+@media (max-width: 1200px) {
+  .graphic-design {
+    margin-top: 10em;
+  }
+}
+
 .graphic-design {
   width: 22.5%;
   height: auto;
