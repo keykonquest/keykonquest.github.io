@@ -1,7 +1,7 @@
 
 .head-banner {
   position: relative;
-  padding-top: 70px;
+  padding-top: 4.375em;
   margin: 3em auto;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .subtitle {
-  padding-left: 100px;
+  padding-left: 6.25em;
   margin: 0 auto;
   font-family: 'Kalam',cursive;
   font-size: 1.562rem;
@@ -26,8 +26,8 @@
 }
 
 .sunburst {
-  width: 100px;
-  height: 100px;
+  width: 6.25em;
+  height: 6.25em;
   position: absolute;
   left: 20%;
   top: 50px;
@@ -73,7 +73,7 @@
 
 @media (max-width: 850px) {
   .html-gif {
-    margin: 0 20px 0 0;
+    margin: 0 1.25em 0 0;
   }
 }
 
@@ -87,7 +87,7 @@
   width: 22.5%;
   height: auto;
   float: right;
-  margin: 80px auto 10px 30px;
+  margin: 5em auto 0.625em 1.875em;
   display: block;
 }
 
