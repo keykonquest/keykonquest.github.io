@@ -81,11 +81,14 @@
   .skills-row {
     width: 60%;
   }
+  .graphic-design {
+    margin: 5em auto 0.625em 1.875em;
+  }
 }
 
 @media (max-width: 1200px) {
   .graphic-design {
-    margin-top: 10em;
+    margin: 10em auto 0.625em 1.875em;
   }
 }
 
@@ -93,7 +96,6 @@
   width: 22.5%;
   height: auto;
   float: right;
-  margin: 5em auto 0.625em 1.875em;
   display: block;
 }
 
