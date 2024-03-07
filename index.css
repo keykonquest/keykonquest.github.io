@@ -57,7 +57,7 @@ p {
 }
 
 .skills {
-  margin: 225px auto;
+  margin: 275px auto;
 }
 
 .skills-row {
@@ -94,7 +94,7 @@ p {
     padding-left: 3.25em;
   }
   .head-banner {
-    margin-top: 10eem;
+    margin-top: 10em;
   }
 }
 
@@ -135,15 +135,9 @@ p {
   display: grid;
 }
 
-.contact:hover {
-  background: #c7f0fd;
-  color: #28CC9E;
-  border-color: #c6dbd5;
-}
-
 @media screen and (min-width: 1000px) {
   .call2action p{
-    font-size: 1.5rem;
+    font-size: 0.825rem;
     }
   #skillone {
   margin: 125px auto 62.5px auto;
