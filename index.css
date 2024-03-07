@@ -5,7 +5,7 @@ p {
 .head-banner {
   position: relative;
   padding-top: 4.375em;
-  margin: 10em auto;
+  margin: 0 auto 10em auto;
 }
 
 @media screen and (max-width:1000px) {
@@ -74,7 +74,7 @@ p {
   display: block;
 }
 
-@media (max-width: 850px) {
+@media screen and(max-width: 850px) {
   .html-gif {
     margin: 0 1.25em 0 0;
   }
@@ -83,8 +83,7 @@ p {
   }
 }
 
-
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   .skills-row {
     width: 60%;
   }
@@ -94,9 +93,12 @@ p {
   .subtitle {
     padding-left: 3.25em;
   }
+  .head-banner {
+    margin-top: 10eem;
+  }
 }
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .graphic-design {
     margin: 10em auto 0.625em 2em;
   }
@@ -112,7 +114,7 @@ p {
   display: block;
 }
 
-@media (max-width: 550px) {
+@media screen and (max-width: 550px) {
   .graphic-design {
     margin-left: 10px;
   }
@@ -133,18 +135,20 @@ p {
   display: grid;
 }
 
-.call2action p{
-  font-size: .875rem;
+.contact:hover {
+  background: #c7f0fd;
+  color: #28CC9E;
+  border-color: #c6dbd5;
 }
 
 @media screen and (min-width: 1000px) {
   .call2action p{
     font-size: 1.5rem;
+    }
+  #skillone {
+  margin: 125px auto 62.5px auto;
+    }
+  #skilltwo {
+    margin: 62.5px auto 125px auto;
   }
-}
-
-.contact:hover {
-  background: #c7f0fd;
-  color: #28CC9E;
-  border-color: #c6dbd5;
 }
