@@ -5,7 +5,7 @@ p {
 .head-banner {
   position: relative;
   padding-top: 4.375em;
-  margin: 3em auto;
+  margin: 10em auto;
 }
 
 @media screen and (max-width:1000px) {
@@ -52,7 +52,7 @@ p {
 }
 
 .profile {
-  margin: 225px auto;
+  margin: 10em auto;
 }
 
 .skills {
