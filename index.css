@@ -12,6 +12,7 @@ p {
   .header {
     padding: 2em;
   }
+  
 }
 
 .hyphen {
@@ -77,8 +78,8 @@ p {
   .html-gif {
     margin: 0 1.25em 0 0;
   }
-  html body div:not(.contact-bar) {
-    margin-top: 6em;
+  html body div:not(.noaddspace) {
+    margin-top: 10em auto 6em auto;
   }
 }
 
