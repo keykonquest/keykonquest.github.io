@@ -78,8 +78,3 @@ footer a:hover {
   color: white;
 }
 
-@media screen and (max-width: 678px) {
-  html body *:not(.contact-bar) {
-    margin-top: 5em;
-  }
-}
