@@ -47,15 +47,15 @@ hr {
 
 @media screen and (max-width: 600px) {
   hr {
-    margin-bottom: 50em;
+    margin: 120em;
   }
 }
 
 .contact {
   font-size:1.562rem;
   font-family:'Encode Sans Condensed', sans-serif;
-  width:166px;
-  height:66px;
+  width:200px;
+  height:85px;
   padding: 6px;
   border-width:2px;
   color:gray;
