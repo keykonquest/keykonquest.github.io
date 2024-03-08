@@ -49,6 +49,9 @@ hr {
   hr {
     margin: 120em;
   }
+  br {
+    display: block;
+  }
 }
 
 br {
