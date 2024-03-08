@@ -3,7 +3,7 @@ p {
 }
 
 .tackOn {
-  display: hidden;
+  display: none;
 }
 
 .head-banner {
@@ -150,7 +150,7 @@ p {
     margin: 50em auto;
   }
   .breakoff {
-    display: hidden;
+    display: none;
   }
   .tackOn {
     display: block;
