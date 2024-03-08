@@ -5,14 +5,7 @@ p {
 .head-banner {
   position: relative;
   padding-top: 4.375em;
-  margin: 10em auto;
-}
-
-@media screen and (max-width:1000px) {
-  .header {
-    padding: 2em;
-  }
-  
+  margin: 0 auto 10em auto;
 }
 
 .hyphen {
@@ -82,6 +75,9 @@ p {
   html body div:not(.noaddspace) {
     margin-top: 10em auto 6em auto;
   }
+  .header {
+    padding: 2em;
+  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -94,8 +90,11 @@ p {
   .subtitle {
     padding-left: 3.25em;
   }
-  .head-banner {
-    margin-top: 0;
+    #skillone {
+  margin: 125px auto 62.5px auto;
+    }
+  #skilltwo {
+    margin: 62.5px auto 125px auto;
   }
 }
 
@@ -105,6 +104,12 @@ p {
   }
   .subtitle {
     padding-left: 2.5em;
+  }
+  .head-banner {
+    margin-top: 10em;
+  }
+  .call2action p{
+    font-size: 0.825rem;
   }
 }
 
@@ -134,17 +139,5 @@ p {
 
 .call2action {
   display: grid;
-  font-size: 0.825rem
 }
 
-@media screen and (min-width: 1000px) {
-  .call2action p{
-    font-size: 1.5rem;
-    }
-  #skillone {
-  margin: 125px auto 62.5px auto;
-    }
-  #skilltwo {
-    margin: 62.5px auto 125px auto;
-  }
-}
