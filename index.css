@@ -54,6 +54,7 @@ p {
   margin: 275px auto;
 }
 
+
 .skills-row {
   text-align: left;
   margin: 125px auto;
@@ -96,6 +97,12 @@ p {
   #skilltwo {
     margin: 62.5px auto 125px auto;
   }
+  .head-banner {
+    padding-top: 0;
+  }
+  .skills h2 {
+    margin-bottom: 0;
+  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -106,10 +113,13 @@ p {
     padding-left: 2.5em;
   }
   .head-banner {
-    margin-top: 10em;
+    margin: 15em;
   }
-  .call2action p{
-    font-size: 0.825rem;
+  .profile {
+    margin: 15em;
+  }
+  .sunburst {
+    top:-105px
   }
 }
 
@@ -124,6 +134,9 @@ p {
   .graphic-design {
     margin-left: 10px;
   }
+  .call2action p{
+  font-size: 0.825rem;
+  }
 }
 
 .skill-row h3 {
@@ -133,11 +146,11 @@ p {
 }
 
 .contact-bar {
-  margin-top: 225px;
+  margin-top: 225px auto;
   display: grid;
 }
 
 .call2action {
   display: grid;
 }
-
+  
