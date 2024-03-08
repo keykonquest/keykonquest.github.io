@@ -64,6 +64,12 @@ hr {
   margin: 3em;
 }
 
+.contact:hover {
+  background: #c7f0fd;
+  color: #28CC9E;
+  border-color: #c6dbd5;
+}
+
 footer {
   display: grid;
   margin: 6.25em 0 0 0;
