@@ -47,7 +47,7 @@ p {
 
 .profile {
   margin: 10em auto;
-  padding: 1em;
+  padding: 2em;
 }
 
 .skills {
@@ -131,18 +131,18 @@ p {
   display: block;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .graphic-design {
     margin-left: 10px;
   }
-  .call2action p{
+  /* .call2action p{
     font-size: 0.825rem;
-  }
+  }  */
   .head-banner {
-    margin: 25em auto;
+    margin: 35em auto;
   }
   .profile {
-    margin: 25em auto;
+    margin: 35em auto;
   }
 }
 
@@ -153,7 +153,8 @@ p {
 }
 
 .contact-bar {
-  margin-top: 225px auto;
+  margin: 225px auto;
+  padding: 1em;
   display: grid;
 }
 
