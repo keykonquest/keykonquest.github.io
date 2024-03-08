@@ -2,6 +2,10 @@ p {
   font-size:1.5rem;
 }
 
+.tackOn {
+  display: hidden;
+}
+
 .head-banner {
   position: relative;
   padding-top: 4.375em;
@@ -140,10 +144,16 @@ p {
     font-size: 0.875rem;
   } 
   .head-banner {
-    margin: 35em auto;
+    margin: 50em auto;
   }
   .profile {
-    margin: 35em auto;
+    margin: 50em auto;
+  }
+  .breakOff {
+    display: hidden;
+  }
+  .tackOn {
+    display: block;
   }
 }
 
@@ -162,4 +172,5 @@ p {
 .call2action {
   display: grid;
 }
+
   
