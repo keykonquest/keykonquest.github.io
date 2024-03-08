@@ -113,13 +113,13 @@ p {
     padding-left: 2.5em;
   }
   .head-banner {
-    margin: 15em;
+    margin: 15em auto;
   }
   .profile {
-    margin: 15em;
+    margin: 15em auto;
   }
   .sunburst {
-    top:-105px
+    top:-55px
   }
 }
 
@@ -130,7 +130,7 @@ p {
   display: block;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 800px) {
   .graphic-design {
     margin-left: 10px;
   }
