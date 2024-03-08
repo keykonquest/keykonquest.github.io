@@ -119,7 +119,7 @@ p {
     margin: 15em auto;
   }
   .sunburst {
-    top:-55px
+    top:-55px;
   }
 }
 
@@ -131,7 +131,7 @@ p {
   display: block;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 500px) {
   .graphic-design {
     margin-left: 10px;
   }
