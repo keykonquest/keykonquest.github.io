@@ -144,12 +144,12 @@ p {
     font-size: 0.875rem;
   } 
   .head-banner {
-    margin: 50em auto;
+    margin: 80em auto 50em auto;
   }
   .profile {
     margin: 50em auto;
   }
-  .breakOff {
+  .breakoff {
     display: hidden;
   }
   .tackOn {
