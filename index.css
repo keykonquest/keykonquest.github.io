@@ -135,9 +135,10 @@ p {
   .graphic-design {
     margin-left: 10px;
   }
-  /* .call2action p{
-    font-size: 0.825rem;
-  }  */
+  .profile
+  .call2action p{
+    font-size: 0.875rem;
+  } 
   .head-banner {
     margin: 35em auto;
   }
