@@ -143,12 +143,6 @@ p {
   .call2action p{
     font-size: 0.875rem;
   } 
-  .head-banner {
-    margin: 100em auto 60em auto;
-  }
-  .profile {
-    margin: 50em auto;
-  }
   .breakoff {
     display: none;
   }
